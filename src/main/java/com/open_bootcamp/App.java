@@ -1,9 +1,5 @@
 package com.open_bootcamp;
 
-/**
- * Hello world!
- *
- */
 public class App {
     public static void main(String[] args) {
         suma(2,5,6);
